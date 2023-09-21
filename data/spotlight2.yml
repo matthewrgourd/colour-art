@@ -1,0 +1,6 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+button: 
+  label: "View larger image"
+  link: "images/spotlight02.jpg"
+image: "images/spotlight02.jpg"
