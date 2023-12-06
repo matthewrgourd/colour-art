@@ -37,7 +37,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   favicon = true
 
 [Params.social]
-  github = "https://github.com/matthewrgourd/op-art"
+  github = "https://github.com/matthewrgourd/colour-art"
   twitter = "https://twitter.com/clearpattern"
   email = "mattgourd@gmail.com"
   instagram = "https://www.instagram.com/matt.gourd"
